@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**IliaMrt/IliaMrt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Ilia
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on a few freelance projects (usually Nest.js + PostgreSQL etc)
+- 🌱 Also I’m currently learning Golang
+- 🔥 I love coding)
+ 
+My skills:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,nest,docker,jest,rabbitmq,postgres,postman,go,arduino,linux)](https://skillicons.dev)
+
+My contacts:
+
+[    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+](https://www.linkedin.com/in/ilia-martens-9799a512b/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BN%2BZClD%2FoTmWtBIrG22UphQ%3D%3D)
+ 
