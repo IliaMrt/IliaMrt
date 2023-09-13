@@ -8,7 +8,7 @@ My name is Ilia
  
 My skills:
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,nest,docker,jest,rabbitmq,postgres,postman,go,arduino,linux,php,yii2,vue)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,nest,docker,jest,rabbitmq,postgres,postman,go,arduino,linux,php,vue)](https://skillicons.dev)
 
 My contacts:
 
