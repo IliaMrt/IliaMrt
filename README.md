@@ -2,7 +2,7 @@
 
 My name is Ilia
 
-- 🔭 I’m currently working on a few freelance projects (usually Nest.js + PostgreSQL etc)
+- 🔭 I’m currently working on a few commercial fullstack projects (usually Nest.js + PostgreSQL etc)
 - 🌱 Also I’m currently learning Golang
 - 🔥 I love coding)
  
