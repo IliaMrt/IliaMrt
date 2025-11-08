@@ -8,7 +8,8 @@ My name is Ilia
  
 My skills:
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,nest,clickhouse,docker,jest,rabbitmq,postgres,postman,go,arduino,linux,php,vue)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,nest,docker,jest,rabbitmq,postgres,postman,go,arduino,linux,php,vue)](https://skillicons.dev)
+<img src="https://img.shields.io/badge/-%20-FFCC01?style=flat&logo=clickhouse&logoColor=black" height="44" alt="ClickHouse" />
 
 My contacts:
 
