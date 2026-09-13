@@ -1,18 +1,18 @@
-### Hi there 👋
+### Ilias Martens — Backend Developer (Node.js / TypeScript)
 
-My name is Ilia
+Backend engineer based in Germany (Remote / DE).  
+Focus: APIs, data pipelines, integrations, and systems under load.
 
-- 🔭 I’m currently working on a few commercial fullstack projects (usually Nest.js + PostgreSQL etc)
-- 🌱 Also I’m currently learning Golang
-- 🔥 I love coding)
- 
-My skills:
+**Currently:** analytics backend (Nest.js / TypeScript, PostgreSQL + ClickHouse, RabbitMQ, Docker) — production systems with 15k+ users.
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,nest,docker,jest,rabbitmq,postgres,postman,go,arduino,linux,php,vue)](https://skillicons.dev)
-<img src="https://img.shields.io/badge/-%20-FFCC01?style=flat&logo=clickhouse&logoColor=black" height="44" alt="ClickHouse" />
+**Approach:** architecture and API design from rough product goals; close collaboration with frontend and adjacent teams; systematic use of AI tools (Cursor, LLMs) with human validation of results.
 
-My contacts:
+### Stack
+- **Core:** TypeScript, Node.js, Nest.js
+- **Data:** PostgreSQL, ClickHouse, RabbitMQ
+- **Ops:** Docker, Jest, Grafana
+- **Also:** PHP/MySQL (Weiterbildung), Vue.js (basics)
 
-[    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-](https://www.linkedin.com/in/ilia-martens-9799a512b/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BN%2BZClD%2FoTmWtBIrG22UphQ%3D%3D)
- 
+### Contact
+- LinkedIn: [ilias-martens](https://www.linkedin.com/in/ilias-martens-9799a512b/)
+- Location: Germany · open to Remote (DE/DACH)
